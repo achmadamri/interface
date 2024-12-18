@@ -71,7 +71,7 @@ export const PageTabs = () => {
       <MenuItem href="/swap" isActive={pathname.startsWith('/swap')}>
         <Trans>Swap</Trans>
       </MenuItem>
-      <MenuItem
+      {/* <MenuItem
         href={'/explore' + (chainName !== Chain.Ethereum ? `/${chainName.toLowerCase()}` : '')}
         isActive={pathname.startsWith('/explore')}
       >
@@ -87,7 +87,7 @@ export const PageTabs = () => {
           <Trans>Pool</Trans>
         </MenuItem>
       </Box>
-      <More />
+      <More /> */}
     </>
   )
 }
@@ -145,11 +145,11 @@ const Navbar = ({ blur }: { blur: boolean }) => {
               display: 'flex',
             })}
           >
-            <SearchBar />
+            {/* <SearchBar /> */}
           </Box>
           <Box className={styles.rightSideContainer}>
             <Row gap="12">
-              <Box position="relative" display={isNavSearchInputVisible ? 'none' : { sm: 'flex' }}>
+              {/* <Box position="relative" display={isNavSearchInputVisible ? 'none' : { sm: 'flex' }}>
                 <SearchBar />
               </Box>
               {isNftPage && sellPageState !== ProfilePageStateType.LISTING && <Bag />}
@@ -158,7 +158,7 @@ const Navbar = ({ blur }: { blur: boolean }) => {
                   <ChainSelector />
                 </Box>
               )}
-              {isLandingPage && <GetTheAppButton />}
+              {isLandingPage && <GetTheAppButton />} */}
               <Web3Status />
             </Row>
           </Box>

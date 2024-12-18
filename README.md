@@ -1,6 +1,6 @@
-# Uniswap Labs: Front End Interfaces
+# GIFswap Labs: Front End Interfaces
 
-An open source repository for all Uniswap front end interfaces maintained by Uniswap Labs. Uniswap is a protocol for decentralized exchange of Ethereum tokens.
+An open source repository for all GIFswap front end interfaces maintained by GIFswap Labs. GIFswap is a protocol for decentralized exchange of Ethereum tokens.
 
 ## Interfaces
 
@@ -9,12 +9,12 @@ An open source repository for all Uniswap front end interfaces maintained by Uni
 
 ## Socials / Contact
 
-- Twitter: [@Uniswap](https://twitter.com/Uniswap)
-- Reddit: [/r/Uniswap](https://www.reddit.com/r/Uniswap/)
+- Twitter: [@GIFswap](https://twitter.com/GIFswap)
+- Reddit: [/r/GIFswap](https://www.reddit.com/r/GIFswap/)
 - Email: [contact@uniswap.org](mailto:contact@uniswap.org)
-- Discord: [Uniswap](https://discord.gg/FCfyBSbCU5)
+- Discord: [GIFswap](https://discord.gg/FCfyBSbCU5)
 
-## Uniswap Links
+## GIFswap Links
 
 - Website: [uniswap.org](https://uniswap.org/)
 - Docs: [uniswap.org/docs/](https://docs.uniswap.org/)
@@ -34,7 +34,7 @@ For instructions per application or package, see the README published for each a
 
 ## Releases
 
-All interface releases are tagged and published to this repository. To browse them easily, see the [Github releases tab](https://github.com/Uniswap/interface/releases).
+All interface releases are tagged and published to this repository. To browse them easily, see the [Github releases tab](https://github.com/GIFswap/interface/releases).
 
 ## Translations
 

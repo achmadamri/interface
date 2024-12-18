@@ -191,7 +191,7 @@ export default function AuthenticatedHeader({ account, openSettings }: { account
           </TraceEvent>
         </IconContainer>
       </HeaderWrapper>
-      <PortfolioDrawerContainer>
+      {/* <PortfolioDrawerContainer>
         {totalBalance !== undefined ? (
           <FadeInColumn gap="xs">
             <ThemedText.HeadlineLarge fontWeight={535} data-testid="portfolio-total-balance">
@@ -249,7 +249,7 @@ export default function AuthenticatedHeader({ account, openSettings }: { account
             <Trans>Claim</Trans> {unclaimedAmount?.toFixed(0, { groupSeparator: ',' } ?? '-')} <Trans>reward</Trans>
           </UNIButton>
         )}
-      </PortfolioDrawerContainer>
+      </PortfolioDrawerContainer> */}
     </AuthenticatedHeaderWrapper>
   )
 }

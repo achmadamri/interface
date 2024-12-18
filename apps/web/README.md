@@ -1,4 +1,4 @@
-# Uniswap Labs Web Interface
+# GIFswap Labs Web Interface
 
 ## Accessing the Uniswap Interface
 
